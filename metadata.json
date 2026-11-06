@@ -1,0 +1,6 @@
+{
+  "name": "MOHVPN",
+  "description": "MOHVPN - تطبيق VPN فائق السرعة والأمان بنمط سايبربانك وبروتوكول WireGuard ومفتاح قطع تلقائي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
